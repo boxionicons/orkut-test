@@ -2,7 +2,9 @@
   "name": "Wahyu Store",
   "version": "Wahyu Store",
   "description": "Simple and Easy-to-Use API Documentation",
-  "apikey": ["memew27"],
+  "apikey": [
+    "memew27"
+  ],
   "header": {
     "status": "Online!",
     "imageSrc": [
